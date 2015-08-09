@@ -11,4 +11,4 @@ if __name__ == '__main__':
     phrase = "Hello World!"
     print phrase
     
-    print time.strftime("%Y-%m-%d %H:%M:%S")
+    print "Date & Time", time.strftime("%Y-%m-%d %H:%M:%S")

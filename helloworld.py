@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 '''
-Created on 09 авг. 2015 г.
+Created on 09 пїЅпїЅпїЅ. 2015 пїЅ.
 
-@author: Руслан
+@author: пїЅпїЅпїЅпїЅпїЅпїЅ
 '''
 
 if __name__ == '__main__':
-    word = "Hello World!"
-    print word
+    phrase = "Hello World!"
+    print phrase
